@@ -1,2 +1,2 @@
 # mi primer proyecto
-Actualizado desde GitHub
+Actualizacion local del readme
